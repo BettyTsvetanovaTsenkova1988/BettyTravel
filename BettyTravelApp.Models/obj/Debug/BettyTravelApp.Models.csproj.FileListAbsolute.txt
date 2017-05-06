@@ -1,0 +1,58 @@
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\obj\Debug\BettyTravelApp.Models.csprojResolveAssemblyReference.cache
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\BettyTravelApp.Models.dll.config
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\BettyTravelApp.Models.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\BettyTravelApp.Models.pdb
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\EntityFramework.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.Owin.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Owin.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\EntityFramework.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.Owin.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\obj\Debug\BettyTravelApp.Models.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp.Models\obj\Debug\BettyTravelApp.Models.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\BettyTravelApp.Models.dll.config
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\BettyTravelApp.Models.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\BettyTravelApp.Models.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.Owin.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Owin.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.Mvc.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.Razor.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.Owin.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.Mvc.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.Razor.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\obj\Debug\BettyTravelApp.Models.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\obj\Debug\BettyTravelApp.Models.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp.Models\obj\Debug\BettyTravelApp.Models.pdb
