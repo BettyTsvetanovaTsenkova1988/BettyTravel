@@ -1,0 +1,256 @@
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\ApplicationInsights.config
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\csc.exe
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\vbc.exe
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.dll.config
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.pdb
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Antlr3.Runtime.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\EntityFramework.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Web.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Newtonsoft.Json.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Owin.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.Helpers.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.Mvc.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.Optimization.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.Razor.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\WebGrease.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Web.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.ApplicationInsights.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.Helpers.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.Mvc.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.Optimization.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.Razor.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Antlr3.Runtime.pdb
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Newtonsoft.Json.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\EntityFramework.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.dll
+D:\Visual Studio 2013\ASP.NET\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.pdb
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\ApplicationInsights.config
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\csc.exe
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\vbc.exe
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.dll.config
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.pdb
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Antlr3.Runtime.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\EntityFramework.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Web.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Newtonsoft.Json.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Owin.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.Helpers.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.Mvc.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.Optimization.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.Razor.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\WebGrease.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Web.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.Helpers.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.Mvc.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.Optimization.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.Razor.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Antlr3.Runtime.pdb
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Newtonsoft.Json.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\EntityFramework.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.csprojResolveAssemblyReference.cache
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.pdb
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.Models.dll
+C:\Users\Home-PC\Desktop\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.Models.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\ApplicationInsights.config
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\csc.exe
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\vbc.exe
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.dll.config
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Antlr3.Runtime.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.Models.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\EntityFramework.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Web.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Newtonsoft.Json.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Owin.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.Helpers.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.Mvc.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.Optimization.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.Razor.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\WebGrease.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravelApp.Models.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.Web.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.ApplicationInsights.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.Helpers.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.Mvc.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.Optimization.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.Razor.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Antlr3.Runtime.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Newtonsoft.Json.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\EntityFramework.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\obj\Debug\BettyTravelApp.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravel.Data.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravel.Data.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\AutoMapper.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravel.Services.dll
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\BettyTravel.Services.pdb
+D:\Visual Studio 2013\ASP.NET\DEFENCE\BettyTravelApp\BettyTravelApp\bin\AutoMapper.xml
