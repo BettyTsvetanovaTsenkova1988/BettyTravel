@@ -1,0 +1,73 @@
+﻿@model BettyTravelApp.Models.ViewModels.Admin.VacationCRUDvm
+
+@{
+    ViewBag.Title = "Детайли";
+}
+
+<h2>Детайли за почивката:</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.VacationName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VacationName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VacationDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VacationDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartPeriod)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartPeriod)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndPeriod)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndPeriod)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TransportType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransportType)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FeedingType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FeedingType)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Редактиране", "Edit", new { id = Model.Id }, new { @class = "btn btn-primary" }) |
+    @Html.ActionLink("Всички почивки", "All", null, new { @class = "btn btn-primary" })
+</p>
