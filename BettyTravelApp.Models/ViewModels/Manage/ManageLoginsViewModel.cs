@@ -8,7 +8,7 @@ using Microsoft.Owin.Security;
 
 namespace BettyTravelApp.Models.ViewModels.Manage
 {
-public    class ManageLoginsViewModel
+    public class ManageLoginsViewModel
     {
         public IList<UserLoginInfo> CurrentLogins { get; set; }
         public IList<AuthenticationDescription> OtherLogins { get; set; }

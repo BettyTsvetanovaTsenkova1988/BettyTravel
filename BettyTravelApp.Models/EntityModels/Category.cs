@@ -3,7 +3,7 @@ using BettyTravelApp.Models.Enumerations;
 
 namespace BettyTravelApp.Models.EntityModels
 {
-    public class Category : ApplicationUser
+    public class Category 
     {
         private ICollection<Vacation> vacations;
 

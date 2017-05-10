@@ -67,6 +67,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BindingModels\EditCustomerBM.cs" />
+    <Compile Include="BindingModels\VacationBM.cs" />
     <Compile Include="EntityModels\ApplicationUser.cs" />
     <Compile Include="EntityModels\Category.cs" />
     <Compile Include="EntityModels\Customer.cs" />
@@ -88,6 +90,12 @@
     <Compile Include="ViewModels\Account\ResetPasswordViewModel.cs" />
     <Compile Include="ViewModels\Account\SendCodeViewModel.cs" />
     <Compile Include="ViewModels\Account\VerifyCodeViewModel.cs" />
+    <Compile Include="ViewModels\Admin\AdminAditionalDataVM.cs" />
+    <Compile Include="ViewModels\Admin\VacationCRUDvm.cs" />
+    <Compile Include="ViewModels\Admin\VacationVM.cs" />
+    <Compile Include="ViewModels\Customers\CustomerProfileViewModel.cs" />
+    <Compile Include="ViewModels\Customers\CustomerVacationViewModel.cs" />
+    <Compile Include="ViewModels\Customers\EditCustomerViewModel.cs" />
     <Compile Include="ViewModels\Manage\AddPhoneNumberViewModel.cs" />
     <Compile Include="ViewModels\Manage\ChangePasswordViewModel.cs" />
     <Compile Include="ViewModels\Manage\ConfigureTwoFactorViewModel.cs" />
