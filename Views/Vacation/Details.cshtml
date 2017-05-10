@@ -1,0 +1,129 @@
+﻿@model BettyTravelApp.Models.ViewModels.Vacation.VacationDetailsViewModel
+
+@{
+    ViewBag.Title = "Детайли";
+}
+<br />
+
+<h2>Детайли за почивката:</h2>
+
+<br />
+
+<div class="container col-lg-12">
+    <div class="col">
+        <div class="col-lg-4">
+            @foreach (var vac in Model.Picures)
+            {
+                <div class="card" style="border: 2px solid black">
+                    <img class="card-img-top" src="@vac.PictureSourse" alt="Card image cap">
+                </div>
+            }
+        </div>
+    </div>
+    <div class="col col-lg-8">
+        <div class="vacationDetails col-lg-8">
+            @Html.DisplayFor(Model => Model.VacationDescription)
+        </div>
+    </div>
+</div>
+
+<p>&nbsp &nbsp</p>
+
+<div class="container col-lg-12">
+    <div class="col col-lg-4">
+        <table class="table-responsive col-lg-6 col-lg-offset-1">
+            <tr>
+                <td class="col-lg-2">
+                    <h4>@Html.DisplayNameFor(Model => Model.VacationName)</h4>
+                </td>
+                <td class="col-lg-4">
+                    @Html.DisplayFor(Model => Model.VacationName)
+                </td>
+            </tr>
+            <tr>
+                <td class="col-lg-2">
+                    <h4>@Html.DisplayNameFor(Model => Model.Price)</h4>
+                </td>
+                <td class="col-lg-4">
+                    @Html.DisplayFor(Model => Model.Price) лв.
+                </td>
+            </tr>
+            <tr>
+                <td class="col-lg-2">
+                    <h4>@Html.DisplayNameFor(Model => Model.StartPeriod)</h4>
+                </td>
+                <td class="col-lg-4">
+                    @Html.DisplayFor(Model => Model.StartPeriod)
+                </td>
+            </tr>
+            <tr>
+                <td class="col-lg-2">
+                    <h4>@Html.DisplayNameFor(Model => Model.EndPeriod)</h4>
+                </td>
+                <td class="col-lg-4">
+                    @Html.DisplayFor(Model => Model.EndPeriod)
+                </td>
+            </tr>
+            <tr>
+                <td class="col-lg-2">
+                    <h4>@Html.DisplayNameFor(Model => Model.FeedingType)</h4>
+                </td>
+                <td class="col-lg-4">
+                    @Html.DisplayFor(Model => Model.FeedingType)
+                </td>
+            </tr>
+            <tr>
+                <td class="col-lg-2">
+                    <h4>@Html.DisplayNameFor(Model => Model.TransportType)</h4>
+                </td>
+                <td class="col-lg-4">
+                    @Html.DisplayFor(Model => Model.TransportType)
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="col col-lg-8">
+        <h4>Във всяка стая ще откриете:</h4>
+        <div class="row col-lg-4">
+            <span>
+                <p>Денонощно обслужване</p>
+                <img src="/Content/images/Icons/24.png" />
+                <br />
+            </span>
+            <span>
+                <p>Денонощнен бар</p>
+                <img src="/Content/images/Icons/cocktail.png" />
+            </span>
+        </div>
+        <div class="row col-lg-4 col-lg-offset-1">
+            <div>
+                <p>Място за отдих и почивка</p>
+                <img src="/Content/images/Icons/otdih.png" />
+            </div>
+            <div>
+                <p>Безплатен паркинг</p>
+                <img src="/Content/images/Icons/parking.png" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<p>&nbsp &nbsp</p>
+
+<div class="navigationlinks container-fluid" style="text-align: center">
+    <div class="row">
+        <div class="col-lg-12">
+            @if (User.Identity.IsAuthenticated)
+            {
+                using (Html.BeginForm("BuyVacation", "Vacation", FormMethod.Post))
+                {
+                    <input type="number" value="@Model.Id" hidden="hidden" name="vacationId" />
+                    <input type="submit" value="Резервиране" class="btn btn-lg btn-primary" />
+                }
+            }
+        </div>
+    </div>
+</div>
+
+
+
