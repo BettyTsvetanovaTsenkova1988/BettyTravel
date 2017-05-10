@@ -1,0 +1,23 @@
+﻿@model BettyTravelApp.Models.ViewModels.Admin.AdminAditionalDataVM
+
+
+@{
+    ViewBag.Title = "Всички резервации";
+}
+
+<h2>Всички резервации</h2>
+
+<table class="table table-responsive table-striped">
+    <tr>
+        <th>Информация за направените резервации</th>
+    </tr>
+
+    @foreach (var data in Model.AdditionalData)
+    {
+        <tr>
+            <th>@Html.DisplayText(data)</th>
+        </tr>
+    }
+
+</table>
+
